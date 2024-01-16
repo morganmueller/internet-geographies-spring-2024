@@ -27,7 +27,7 @@
 | Class Day | Monday, Wednesday   |
 | Class Time      | 4:00pm - 5:40pm |
 | Classroom      | Room **1001**, 6 East 16th Street, Manhattan |
-| Class Dates     | Jan 23 - May 15 |
+| Class Dates     | Jan 22 - May 13 |
 
 ## OFFICE HOURS
 
