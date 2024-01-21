@@ -12,8 +12,16 @@
 ### Reading Response Google Doc
 * ↳ [Response Document](https://docs.google.com/document/d/1tTH-Oac5-IsplvvS-ANf6MWLI_TKMXUMWU_Bvj79xXg/edit?usp=sharing)
 
-## Monday 
+## Monday (ONLINE over ZOOM)
 
+## Schedule
+* Introductions - __45 minutes__
+    * How is everyone feeling?
+    * Syllabus and Overview
+* Course Logistics - __10 minutes__
+* Reading Discussion Group Matchmaking - __15 minutes__
+* Presentation - __30 minutes__
+    * Introduction to the Tangible Internet
 ## Topics
 
 ### Course Overview & Syllabus - 45 minutes
@@ -21,12 +29,11 @@
 * Syllabus review and Q&A
 * Expectations and Community care
 
-### Choosing Reading Disussion Text Groups - 10 minutes
+### Choosing Reading Disussion Text Groups - 15 minutes
 Add your name under the desired week in the in class shared notes doc.
 
-[Reading Discussion Group Link](https://docs.google.com/document/d/1d5Kb8JhbkFiacYGjqji7o50tJWt6qNGsCsJCJteMim8/edit?usp=sharing)
+[Reading Discussion Group Link](https://docs.google.com/document/d/1tTH-Oac5-IsplvvS-ANf6MWLI_TKMXUMWU_Bvj79xXg/edit#heading=h.eozb93mznspp)
 
-## In Class Exercise - 10 minutes
 
 ### Introduction to the Tangible Internet - 45 minutes
 * What does cartography have to do with the internet?
@@ -92,6 +99,7 @@ Add your name under the desired week in the in class shared notes doc.
     * How is everyone feeling?
     * How has your first week been going?
     * Is there anything from Monday's class that you felt could be elaborated on?
+* In Class Exercise - 
 * Additional Course Logistics - __5 minutes__
     * Slack Channel & Aren.a
     * In class shared Notes Document
