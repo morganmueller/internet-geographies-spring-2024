@@ -138,7 +138,7 @@ Each project must be accompanied with a write-up detailing methodologies, resour
 
 | ASSIGNMENT  |  DUE DATE  | TITLE |
 | :----         |  ----  | ---- |
-| [Five Reading Responses](https://docs.google.com/document/d/1z9RFLIPTfHzS9kKKNdszuYYRxVgrxREBAZ1X29DAJfs/edit?usp=sharing) | May 15 | Course Reading Responses |
+| [Five Reading Responses](https://docs.google.com/document/d/1z9RFLIPTfHzS9kKKNdszuYYRxVgrxREBAZ1X29DAJfs/edit?usp=sharing) | May 13 | Course Reading Responses |
 | [Project 1](./assignments/assignment_01.md) |  March 6th | Public Data Mapping |
 | [Project 2](./assignments/assignment_02.md) |  April 17th | Visualizing a Collection  |
 | [Project 4](./assignments/final-project.md) | May 13th | Final Project/Paper  |
@@ -712,7 +712,7 @@ In Class Work Session
 ## Final Week
 ### Week 17- Final Projects/Papers Due
 
-#### Monday, May 15th
+#### Monday, May 13th
 **Projects/Papers due by 4:00pm**
 * Final Presentations
 
