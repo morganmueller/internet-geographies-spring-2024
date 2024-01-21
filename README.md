@@ -11,7 +11,7 @@
 * Course Website:
   * [Internet Geographies](https://internet-geographies.netlify.app/)
 * Github Repo:
-  * [Internet Geographies Github Repo](https://github.com/morganmueller/internet-geographies-spring-2023)
+  * [Internet Geographies Github Repo](https://github.com/morganmueller/internet-geographies-spring-2024)
 * Course Slack Channel:
   * [Internet Geographies Slack](https://codeatlang.slack.com/archives/C02V71SPA7L)
 * Course Are.na:
@@ -26,7 +26,7 @@
 | Instructor Github | [@morganmueller](https://github.com/morganmueller) |
 | Class Day | Monday, Wednesday   |
 | Class Time      | 4:00pm - 5:40pm |
-| Classroom      | Room **1001**, 6 East 16th Street, Manhattan |
+| Classroom      | Room **913**, 6 East 16th Street, Manhattan |
 | Class Dates     | Jan 22 - May 13 |
 
 ## OFFICE HOURS
@@ -112,23 +112,23 @@ Prior to each week I will upload slides, code examples, resources and more to th
 
 | GO TO  |  DATE  | SECTION | DISCUSSION LEAD |
 | :----         |  ----  | ---- | ---- |
-| [WEEK 01](weeks/week_01.md) | Jan 23 & 25 | A Tangible Internet | NONE |
-| [WEEK 02](weeks/week_02.md) | Jan 30 & Feb 01 | A Tangible Internet | NONE |
-| [WEEK 03](weeks/week_03.md) | Feb 06 & 08 | A Tangible Internet | Maya, Riya |
-| [WEEK 04](weeks/week_04.md) | Feb 13 & 15 | A Tangible Internet | Ian, Daniel |
-| [WEEK 05](weeks/week_05.md) | <s>Feb 20</s> & 22 | A Tangible Internet | Avery, Eli |
-| [WEEK 06](weeks/week_06.md) | Feb 27 & Mar 01 | A Tangible Internet | Eli, Sutton |
-| [WEEK 07](weeks/week_07.md) | Mar 06 & 08 | Supply Chains  | Satoshi, Sutton |
-| [WEEK 08](weeks/week_08.md) | Mar 13 & 15 | **SPRING BREAK**  | None| 
-| [WEEK 09](weeks/week_09.md) | Mar 20 & 22 | Supply Chains  | TBD |
-| [WEEK 10](weeks/week_10.md) | Mar 27 & 29 | Supply Chains  | Satoshi, Maya |
-| [WEEK 11](weeks/week_11.md) | APR 03 & 05 | Mining & Extraction | Pari |
-| [WEEK 12](weeks/week_12.md) | APR 10 & 12 | Mining & Extraction  | TBD |
-| [WEEK 13](weeks/week_13.md) | APR 17 & 19 | Mining & Extraction | Ian, Pari |
-| [WEEK 14](weeks/week_14.md) | APR 24 & 26 | Waste & Disposal |  Avery, Kai |
-| [WEEK 15](weeks/week_15.md) | MAY 01 & 03 | Waste & Disposal |  Kai  |
-| [WEEK 16](weeks/week_16.md) | May 08 & 10 | Waste & Disposal  | TBD |
-| [FINAL PROJECTS/PAPERS DUE](weeks/week_17.md) | May 15  | **FINAL PROJECTS/PAPERS DUE** |  None |
+| [WEEK 01](weeks/week_01.md) | Jan 22 & 24 | A Tangible Internet | NONE |
+| [WEEK 02](weeks/week_02.md) | Jan 29 & 31 | A Tangible Internet | NONE |
+| [WEEK 03](weeks/week_03.md) | Feb 05 & 07 | A Tangible Internet |TBD |
+| [WEEK 04](weeks/week_04.md) | Feb 12 & 14 | A Tangible Internet | TBD |
+| [WEEK 05](weeks/week_05.md) | <s>Feb 19</s> & 21 | A Tangible Internet | TBD |
+| [WEEK 06](weeks/week_06.md) | Feb 26 & 28 | A Tangible Internet | TBD |
+| [WEEK 07](weeks/week_07.md) | Mar 04 & 06 | A Tangible Internet  | TBD |
+| [WEEK 08](weeks/week_08.md) | Mar 11 & 13 | **SPRING BREAK**  | None| 
+| [WEEK 09](weeks/week_09.md) | Mar 18 & 20 | Supply Chains  | TBD |
+| [WEEK 10](weeks/week_10.md) | Mar 25 & 27 | Supply Chains  | TBD |
+| [WEEK 11](weeks/week_11.md) | Apr 01 & 03 | Supply Chains | TBD |
+| [WEEK 12](weeks/week_12.md) | Apr 08 & 10 | Mining & Extraction  | TBD |
+| [WEEK 13](weeks/week_13.md) | Apr 15 & 17 | Mining & Extraction | TBD |
+| [WEEK 14](weeks/week_14.md) | Apr 22 & 24 | Mining & Extraction |  TBD |
+| [WEEK 15](weeks/week_15.md) | Apr 29 & May 01 | Waste & Disposal |  TBD  |
+| [WEEK 16](weeks/week_16.md) | May 06 & 08 | Waste & Disposal  | TBD |
+| [FINAL PROJECTS/PAPERS DUE](weeks/week_17.md) | May 13  | **FINAL PROJECTS/PAPERS DUE** |  None |
 
 ## PROJECTS
 
@@ -139,9 +139,9 @@ Each project must be accompanied with a write-up detailing methodologies, resour
 | ASSIGNMENT  |  DUE DATE  | TITLE |
 | :----         |  ----  | ---- |
 | [Five Reading Responses](https://docs.google.com/document/d/1z9RFLIPTfHzS9kKKNdszuYYRxVgrxREBAZ1X29DAJfs/edit?usp=sharing) | May 15 | Course Reading Responses |
-| [Project 1](./assignments/assignment_01.md) |  March 27th | Public Data Mapping |
-| [Project 2](./assignments/assignment_02.md) |  April 19th | Visualizing a Collection  |
-| [Project 4](./assignments/final-project.md) | May 15 | Final Project/Paper  |
+| [Project 1](./assignments/assignment_01.md) |  March 6th | Public Data Mapping |
+| [Project 2](./assignments/assignment_02.md) |  April 17th | Visualizing a Collection  |
+| [Project 4](./assignments/final-project.md) | May 13th | Final Project/Paper  |
 
 
 ## LATE ASSIGNMENTS
@@ -246,12 +246,12 @@ http://www.newschool.edu/provost/course-evaluations-student-instructions.pdf
 ## COURSE SCHEDULE
 
 ## Section - A Tangible Internet
-### Week 1 – Course Introductions and Overview (**ONLINE**)
-#### Monday, January 23th
+### Week 1 – Course Introductions and Overview 
+#### Monday, January 22nd (**ONLINE**)
 
-* Introduction to the course
+* Introduction to the course and the physical internet
+* Student & Teacher Introductions
 * Choose discussion readings
-* In class exercise
 
 __ASSIGNED__
 
@@ -260,7 +260,7 @@ __ASSIGNED__
     * [Ingrid Burrington, "Networks of New York"](http://seeingnetworks.in/nyc/)
     * [Adam Rothstein, "How to See Infrastructure: A Guide for Seven Billion Primates", July 2015](https://rhizome.org/editorial/2015/jul/2/how-see-infrastructure-guide-seven-billion-primate/)
 
-* **SMALL ASSIGNMENT**
+* **SMALL ASSIGNMENT DUE Monday Jan 31**
    * Using this week's readings as a starting point - wander around your city/neighborhood/community
     and identify three public components of networked infrastructure. Document the pieces through photography, sketching, 3d scanning etc. Try to research the components and learn how they are incorporated into the larger networked environment. We will discuss our findings in next Monday's class!
 
@@ -274,21 +274,22 @@ __ASSIGNED__
 * **RESOURCES**
     * [Map Maker Code of Ethics](https://github.com/joeyklee/carto-code-of-ethics)
 
-#### Wednesday, January 25th
+#### Wednesday, January 23th
 * Cartography 101
-* Introduction to web mapping with Javascript (Javascript Basics)
+* In Class Exercise
+* Introduction to web mapping and Javascript (Javascript Basics)
 
 * **RESOURCES**
     * [Measurement Lab](https://www.measurementlab.net/data/)
 
 ## Section - A Tangible Internet
 
-### Week 2 – Internet as Infrastructure (**ONLINE**)
+### Week 2 – Internet as Infrastructure
 
-#### Monday, January 31th
-* **Small project group showing/discussion**
+#### Monday, January 29th
+* **Small assignment group showing/discussion**
 * Reading Discussion
-* Cartography 101 continued
+* Cartography/Javascript 101 continued
 
 __ASSIGNED__
 * **READING**
@@ -296,9 +297,6 @@ __ASSIGNED__
     * [Lisa Parks, "Around the Antenna Tree: The politics of Infrastructural Visibility" ](http://www.flowjournal.org/2009/03/around-the-antenna-tree-the-politics-of-infrastructural-visibilitylisa-parks-uc-santa-barbara/)
     * [Shannon Mattern, "Where Code Meets Concrete", Sep 2019](https://urbanomnibus.net/2019/09/where-code-meets-concrete/)
     
-* **READING DUE WEDNESDAY**
-    * [Joseph Dummit, "Writing The Implosion"](https://journal.culanth.org/index.php/ca/article/view/ca29.2.09/301) 
-
 * **OPTIONAL READING**
     * [Paul Dourish, "Not The Internet, but This Internet: How Othernets Illuminate Our Feudal Internet"](https://dourish.com/publications/2015/NotTheInternet.pdf)
     * [Greta Byrum, "Building the People's Internet"](https://urbanomnibus.net/2019/10/building-the-peoples-internet/)
@@ -312,30 +310,30 @@ __ASSIGNED__
 
 #### Wednesday, February 2nd
 * Javascript Basics Continued
-* Implosion Project in class exercise
+
 
 
 __ASSIGNED__
 
-* Project 1 (Public Data Mapping), **Due March 27th**
-* Take home Implosion Project
+* Project 1 (Public Data Mapping), **Due March 6th**
 
 ## Section - A Tangible Internet
 
 ### Week 3 – Digital Frictions
 
-#### Monday, February 6th
+#### Monday, February 5th
 * Reading Discussion
+* Javascript Introduction Continued
 
 __ASSIGNED__
 
 * **READING**
     * [Shannon Mattern, "Cloud and Field", Aug 2014](https://placesjournal.org/article/cloud-and-field/)
-    * [Joseph Dummit, "Writing The Implosion"](https://journal.culanth.org/index.php/ca/article/view/ca29.2.09/301) 
     * [Andrew Blum, "Tubes", 2012, Chapter 2](https://bobcat.library.nyu.edu/primo-explore/fulldisplay?docid=nyu_aleph003634157&context=L&vid=NS2-NUI&lang=en_US&search_scope=default_scope&adaptor=Local%20Search%20Engine&tab=default_tab&query=any,contains,andrew%20blum%20tubes&offset=0)
 
-* **READING FOR SMALL ASSIGNMENT**
-    * [Rob Walker, "How to Pay Attention"](https://medium.com/re-form/how-to-pay-attention-4751adb53cb6)
+
+* **READING DUE WEDNESDAY**
+    * [Joseph Dummit, "Writing The Implosion"](https://journal.culanth.org/index.php/ca/article/view/ca29.2.09/301) 
 
 * **OPTIONAL READING & VIEWING**
     * [Jennifer Gabrys, "Becoming Planetary", Oct 2018](https://www.are.na/block/7025809)
@@ -348,55 +346,45 @@ __ASSIGNED__
     * [Trevor Paglen, "The Other Night Sky](https://paglen.studio/2020/05/22/the-other-night-sky/)
 
 
-#### Wednesday, February 8th
-* Introduction to Javascript continued (Mapbox & Google Maps API)
-* Implosion Exercise 
-* Overview of publically available data and how to clean data
-* Using publically available datasets for mapping
+#### Wednesday, February 7th
+* Implosion Project In Class Exercise
+* Introduction to Javascript continued 
+* Introduction to CSS/HTML
 * **In Class Activity**
 
-
-__ASSIGNED__
-* **SMALL ASSIGNMENT**
-    *  At least once a week for the next four weeks, revisit one of the sites you chose in the first small exercise where you identified public components of networked infrastructure (for at least 20 minutes per visit). This time the goal will be to practice the 'art of noticing,' focusing on the piece of internet infrastructure and creatively document what you notice. This documentation could be in the form of a field guide, audio field recording, journal or any other method you'd like.
-    
-    Some potential things to think about while at the location are how people interact with the piece of internet infrastructure, if at all, what dynamics it brings to the area it's located in, and if other non-human actors interact with it. We will spend a portion of **March 22nd's** class discussing each student's documentation.
 
 ## Section - A Tangible Internet
 
 ### Week 4 – Scales, Spatialization, & Sensing
 
-#### Monday, February 13th
+#### Monday, February 12th
 * Reading Discussion
-* Implosion Exercise Continued
+* Overview of publically available data and how to clean data
 
-* Small 'Art of Noticing' assignment check-in
 
 __ASSIGNED__
 
 * **READING**
-
-    * [Nicole Starosielski, "The Undersea Network" ](https://www.are.na/block/3097730)
-    * Explore the accompanying website to "The Undersea Network." Be sure to note the choices made in representing relevant information and how the authors chose to move between
-    abstract network diagrams and very specific reference images and cable maps.
-
+    * [Andrew Blum, "Tubes", 2012, Chapter 5](https://bobcat.library.nyu.edu/primo-explore/fulldisplay?docid=nyu_aleph003634157&context=L&vid=NS2-NUI&lang=en_US&search_scope=default_scope&adaptor=Local%20Search%20Engine&tab=default_tab&query=any,contains,andrew%20blum%20tubes&offset=0)
+    * [Andrew Blum, "Tubes", 2012, Chapter 6](https://bobcat.library.nyu.edu/primo-explore/fulldisplay?docid=nyu_aleph003634157&context=L&vid=NS2-NUI&lang=en_US&search_scope=default_scope&adaptor=Local%20Search%20Engine&tab=default_tab&query=any,contains,andrew%20blum%20tubes&offset=0)
+   
 * **RESOURCES**
     * [Submarine Cable Map](https://www.submarinecablemap.com/)
-    * [Surfacing](http://www.surfacing.in/) <br>
     * [Evan Roth, "Landscape Series", 2016-present](http://www.evan-roth.com/~/works/landscapes/#hemisphere=west&strand=115)
     * [Trevor Paglen, "Landing Sites"](https://paglen.studio/2020/04/09/landing-sites/)
 
-#### Wednesday, February 15th
+#### Wednesday, February 14th
 * Continued work on web mapping fundamentals
 * Introduction to HTML and CSS
+* Using publically available datasets for mapping
 * Leaflet introduction overview and in class exercise
 
 
 ## Section - A Tangible Internet
 
-### Week 5 - Undersea Networks & Terrestrial Cables
+### Week 5 - Undersea Networks & Terrestrial Cables (part 1)
 
-#### Monday, February 20st 
+#### Monday, February 19th 
 
 **NO CLASS**
 
@@ -405,6 +393,37 @@ __ASSIGNED__
 * This week's readings and listening assignments are still required as they will be discussed next Monday
 * **READING**
 
+    * [Nicole Starosielski, "The Undersea Network" ](https://www.are.na/block/3097730)
+    * Explore the accompanying website to "The Undersea Network." Be sure to note the choices made in representing relevant information and how the authors chose to move between
+    abstract network diagrams and very specific reference images and cable maps.
+   
+* **RESOURCES**
+    * [Submarine Cable Map](https://www.submarinecablemap.com/)
+    * [Surfacing](http://www.surfacing.in/) <br>
+
+#### Wednesday, February 21st
+
+* Leaflet Continued
+
+* **SMALL ASSIGNMENT**
+    * Using non-digital tools (Be Creative with the tools), create a data visualization on a postcard or similar sized physical object that shows a 'snapshot' of a particular portion of a public data set. Bring them to class next Monday to discuss.
+
+
+## Section - A Tangible Internet
+
+### Week 6 - Undersea Networks & Terrestrial Cables (part 2)
+
+
+#### Monday, February 26th
+* Reading Discussion
+* Small Assignment Review
+* [Andrew Blum Lecture](https://www.youtube.com/watch?v=28hzKbcLlWg&t=762s)
+
+__ASSIGNED__
+
+* **READING**
+
+    * [Andrew Blum, "Tubes", 2012, Chapter 7](https://bobcat.library.nyu.edu/primo-explore/fulldisplay?docid=nyu_aleph003634157&context=L&vid=NS2-NUI&lang=en_US&search_scope=default_scope&adaptor=Local%20Search%20Engine&tab=default_tab&query=any,contains,andrew%20blum%20tubes&offset=0)
     * [Julia Velkova, "Data Centers as Impermanent Infrastructures"](https://culturemachine.net/vol-18-the-nature-of-data-centers/data-centers-as-impermanent/)
     * [Ingrid Burrington,"Why Amazon's Data Centers Are Hidden in Spy Country](https://www.theatlantic.com/technology/archive/2016/01/amazon-web-services-data-center/423147/)
 
@@ -422,26 +441,31 @@ __ASSIGNED__
 * **RESOURCES**
     * [Critical Studies of the Cloud](https://www.criticalstudiesofthe.cloud/db1)
 
-#### Wednesday, February 22rd
-
-* **Guest Speaker: [Laiyi Yi](https://laiyiohlsen.com/)**
-
 * **SMALL ASSIGNMENT**
     For Next Monday, come to class with some notes on at least two art works from the [Critical Studies of the Cloud](https://www.criticalstudiesofthe.cloud/db1) collection. We will begin the class by discussing 
     how artists have been able to critique internet infrastructures in different and oftentimes subversive ways to academics and journalists.
 
+
+#### Wednesday, February 28th
+
+* Web Mapping and Leaflet continued
+* Project 1 In Class group work time
+
+
+
 ## Section - A Tangible Internet
 
-### Week 6 - Data Centers 
+### Week 7 - Data Centers
 
-#### Monday, February 27th
+#### Monday, March 4th
 * Reading Discussion
-* Small Assignment Review
-* [Andrew Blum Lecture](https://www.youtube.com/watch?v=28hzKbcLlWg&t=762s)
+* Small Assignment Showcase
+* Project 1 Work Time
+* **Guest Speaker: [Laiyi Yi](https://laiyiohlsen.com/)**
 
 __ASSIGNED__
-
 * **READING**
+
     * [Anna Tsing, "Supply Chains and the Human Condition", 2009 ](https://www.are.na/block/14670672)
     * [Joe Allen, "Studying Logistics"](https://www.jacobinmag.com/2015/02/logistics-industry-organizing-labor/)
     * [Mirim Posner, "See No Evil"](https://logicmag.io/scale/see-no-evil/)
@@ -449,26 +473,30 @@ __ASSIGNED__
 * **OPTIONAL READING**
     * [James Smith and Jeffrey Mantz, “Do Cellular Phones Dream of Civil War?"](https://www.are.na/block/14670532)
 
-#### Wednesday, March 1st
 
-* Web Mapping and Javascript continued
-* Project 1 In Class group work time
-* HTML and CSS continued
 
-__ASSIGNED__
+#### Wednesday, March 6th
+* Project 1 __DUE__
+* Project Presentations
 
-* **SMALL ASSIGNMENT**
-    * Using non-digital tools (Be Creative with the tools), create a data visualization on a postcard or similar sized physical object that shows a 'snapshot' of a particular portion of a public data set. Bring them to class next Monday to discuss.
+
+## SPRING BREAK
+
+### Week 8 - No Class
+
+<s>Monday, March 13th</s>
+
+
+<s>Wednesday, March 15th</s>
 
 
 ## Section - Supply Chains
 
-### Week 7 - Rethinking Containerization
+### Week 9 - Rethinking Containerization
 
-#### Monday, March 6th
+#### Monday, March 18th
 * Reading Discussion
 * Small Assignment Showcase
-* Potential Guest Speaker
 
 __ASSIGNED__
 
@@ -488,37 +516,26 @@ __ASSIGNED__
     [Supply-Chains.us (Miriam Matthiessen & Anne Lee Steele)](https://www.supply-chains.us/)
 
 
-* **SMALL ASSIGNMENT DUE WEDNESDAY**
-    * Using non-digital tools (Be Creative with the tools), create a data visualization on a postcard or similar sized physical object that shows a 'snapshot' of a particular portion of a public data set. Bring them to class next Wednesday to discuss.
 
 
-
-#### Wednesday, March 8th
-In Class Studio
+#### Wednesday, March 20th
+* Introduction to Data visualization best practices
+* Data Collection Ethics and best practices
 
 
 __ASSIGNED__
 
-* Project 2 (Visualizing a Collection), **Due April 19th**
+* Project 2 (Visualizing a Collection), **Due April 17th**
 
 
-## SPRING BREAK
 
-### Week 8 - No Class
-
-<s>Monday, March 13th</s>
-
-
-<s>Wednesday, March 15th</s>
 
 ## Section - Supply Chains
 
-### Week 9 - Trade & Capitalist Expansion
+### Week 10 - Trade & Capitalist Expansion
 
-#### Monday, March 20st
+#### Monday, March 25th
 * Reading Discussion
-* Watch the Forgotten Space
-Project 2 re-review
 
 __ASSIGNED__
 
@@ -526,24 +543,28 @@ __ASSIGNED__
     * [Lisa Nakamura, "Economies of Digital Production in East Asia"](http://static1.1.sqspcdn.com/static/f/707453/11409674/1301102745057/Media-Fields-2-Nakamura.pdf?token=XCUcazisBv2ZLAhbvcr58wwJJek%3D)
     * [Mark Selden, Jenny Chan and Pun Ngai, "The politics of global production: Apple, Foxconn and China's new working class", 2013](https://apjjf.org/2013/11/32/Mark-Selden/3981/article.html)
 
-#### Wednesday, March 22rd
+* **READING FOR SMALL ASSIGNMENT DUE WEDNESDAY**
+    * [Rob Walker, "How to Pay Attention"](https://medium.com/re-form/how-to-pay-attention-4751adb53cb6)
 
-* **ART OF NOTICING ASSIGNMENT DUE**
-* Art of noticing project showcase
-* Data Visualization with datawrapper and vega (Beyond Mapping)
+#### Wednesday, March 27th
+* Field Trip
+
+
 
 __ASSIGNED__
 * **SMALL ASSIGNMENT**
-    * Spend the next week collecting a personal dataset and use datawrapper to visualize it. This personal dataset could be anything you'd like. For example you could log each of your meal times, download an app which tracks and logs how much time you spend on your phone/computer, keep track of which routes you take going to school, the number of times you say certain words or perform certain actions etc. During next Wednesday's class we will spend some time looking at each person's visualization and discussing what stories they can infer from those data.
+    *  At least once a week for the next four weeks, revisit one of the sites you chose in the first small exercise where you identified public components of networked infrastructure (for at least 20 minutes per visit). This time the goal will be to practice the 'art of noticing,' focusing on the piece of internet infrastructure and creatively document what you notice. This documentation could be in the form of a field guide, audio field recording, journal or any other method you'd like.
+    
+    Some potential things to think about while at the location are how people interact with the piece of internet infrastructure, if at all, what dynamics it brings to the area it's located in, and if other non-human actors interact with it. We will spend a portion of **March 22nd's** class discussing each student's documentation.
+
 
 ## Section - Supply Chains
 
-### Week 10 - Politics of Production
+### Week 11 - Politics of Production
 
-#### Monday, March 27th
+#### Monday, April 1st
 
-**PROJECT 1 DUE**
-* Project Presentations
+
 __ASSIGNED__
 
 * **READING**
@@ -557,45 +578,46 @@ __ASSIGNED__
 * **RESOURCES** 
     * [https://publiclab.org/](https://publiclab.org/)
 
-#### Wednesday, March 29th
+#### Wednesday, April 3rd
+
 * Reading Discussion
 * In Class group project
 * Remote Sensing & GIS Techniques
 * Using Javascript to work with landsat bands 
-* Combining Landsat bands for Remote Sensing
-* **Potential Guest Speaker**
+* Datawrapper Introduction
 
 __ASSIGNED__
+* **SMALL ASSIGNMENT**
+    * Spend the next week collecting a personal dataset and use datawrapper to visualize it. This personal dataset could be anything you'd like. For example you could log each of your meal times, download an app which tracks and logs how much time you spend on your phone/computer, keep track of which routes you take going to school, the number of times you say certain words or perform certain actions etc. During next Wednesday's class we will spend some time looking at each person's visualization and discussing what stories they can infer from those data.
 
-* Final Project/Paper Proposals, **Due April 14th by 11pm**
+* Final Project/Paper Proposals, **Due April 13th by 11pm**
 
 
 ## Section - Mining & Extraction
 
-### Week 11 - Elements of the Internet
+### Week 12 - Elements of the Internet
 
-#### Monday, April 3th
+#### Monday, April 8th
 * Reading Discussion
-* **In Class Activity**
-    * Using one of the tools we covered in class, create two different combinations of Landsat 8 image bands of coordinates of your choosing. This could be your hometown, Bolivian Lithium pools, fire damaged forests in the Pacific Northwest, or any other place you'd like! The combination of bands you choose should give some level of insight to the location chosen (vegetation, fire damage, heat, etc). Document the output and bring it to class next Monday.
+
+
 
 
 __ASSIGNED__
 * **READING**
    * [Colin Kinniburgh, Beyond “Conflict Minerals”: The Congo’s Resource Curse Lives On, 2014](https://www.dissentmagazine.org/article/beyond-conflict-minerals-the-congos-resource-curse-lives-on)
    * [Sandro Mezzadra & Brett Neilson, "Extraction, Logistics, Finance"](https://www.radicalphilosophy.com/article/extraction-logistics-finance)
+* **FINAL PROJECT PROPOSALS DUE THIS FRIDAY AT 11PM**
 
-
-#### Wednesday, April 5th
+#### Wednesday, April 10th
 * Project 2 In Class work time
 * 1 on 1 project assistance
 
 ## Section - Mining & Extraction
 
-### Week 12 - Resource Lives
+### Week 13 - Resource Lives
 
-#### Monday, April 10th
-* **FINAL PROJECT PROPOSALS DUE THIS FRIDAY AT 11PM**
+#### Monday, April 15th
 * Reading Discussion
 * In class activity
 
@@ -603,15 +625,15 @@ __ASSIGNED__
 * **READING**
     * [Julie Michelle Klinger, "Rare Earth Frontiers", 2017](https://www.are.na/block/7639482)
 
-#### Wednesday, April 12th
-In Class Studio
-
+#### Wednesday, April 17th
+* **PROJECT 2 DUE**
+* Project 2 Presentations and critique
 
 ## Section - Mining & Extraction
 
-### Week 13 - Not Quite Rare Earth
+### Week 14 - Not Quite Rare Earth
 
-#### Monday, April 17th
+#### Monday, April 22nd
 * Reading Discussion
 * In Class Final Project Proposal Group Discussion
 * Begin 1 on 1 final project/paper meetings
@@ -630,9 +652,8 @@ __ASSIGNED__
 * **RESOURCES**
 [Reassembling Rubbish Project](https://scalar.usc.edu/works/reassembling-rubbish/index)
 
-#### Wednesday, April 19th
-* **PROJECT 2 DUE**
-* Project 2 Presentations and critique
+#### Wednesday, April 24th
+
 * Advanced Mapping techniques with D3.js and Keppler.gl
     * Creating Custom tiles
     * Working with Mapbox GLSL
@@ -641,15 +662,16 @@ __ASSIGNED__
 
 ## Section - Waste & Disposal
 
-### Week 14 - Narratives of Waste and Disposal
+### Week 15 - Narratives of Waste and Disposal
 
-#### Monday, April 24th
+#### Monday, April 29th
 * Reading Discussion
 * Continue 1 on 1 meetings regarding final project
 
 __ASSIGNED__
 * **READING**
     * [Steven J. Jackson, "Rethinking Repair", 2013](https://www.are.na/block/7607671)
+    * [Ingrid Burrington, "Light Industry: Toxic Waste and Pastoral Capitalism", 2016](https://www.are.na/block/14699927)
 
 
 * **WATCH**
@@ -657,37 +679,18 @@ __ASSIGNED__
 
 * **OPTIONAL READING**  
     * [Josh Lepawsky, "Reassembling Rubbish](https://mitpress.mit.edu/books/reassembling-rubbish)
+    * [Dietmar Offenhuber, "Waste Is Information", 2017, Part 1 (21-87)](https://www.are.na/block/5979636)
 
-#### Wednesday, April 26th
+#### Wednesday, May 1st
 * Creative Mapping exercise & mapping as art practice
 * Final Project help and in class work time
 
 ## Section - Waste & Disposal
 
-### Week 15 - Second Lives
-
-#### Monday, May 1st
-* Reading Discussion
-* Guest Speaker
-
-__ASSIGNED__
-
-* **READING**
-    * [Dietmar Offenhuber, "Waste Is Information", 2017, Part 1 (21-87)](https://www.are.na/block/5979636)
-
-* **OPTIONAL READING**
-    * [Ingrid Burrington, "Light Industry: Toxic Waste and Pastoral Capitalism", 2016](https://www.are.na/block/14699927)
-    
-#### Wednesday, May 3rd
-In Class Work Session
-
-## Section - Waste & Disposal
-
-### Week 16 - Legacies of Waste
-
+### Week 16 - Second Lives
 **I am available for extra office hours this week for any last minute assistance needed.**
-#### Monday, May 8th
 
+#### Monday, May 6th
 * In Class work session
 * Watch [Sacrifice Zone](https://lav.io/projects/endicott/)
 
@@ -698,13 +701,18 @@ __ASSIGNED__
     * [Winona Laduke, Deborah E. Cowen, "Beyond Wiindigo Infrastructure, April 2020](https://read.dukeupress.edu/south-atlantic-quarterly/article-abstract/119/2/243/164111/Beyond-Wiindigo-Infrastructure?redirectedFrom=fulltext)
 
 
-#### Wednesday, May 10th
+* **READING**
+
+* **OPTIONAL READING**
+
+#### Wednesday, May 8th
 In Class Work Session
+
 
 ## Final Week
 ### Week 17- Final Projects/Papers Due
 
 #### Monday, May 15th
-**Projects/Papers due**
+**Projects/Papers due by 4:00pm**
 * Final Presentations
 

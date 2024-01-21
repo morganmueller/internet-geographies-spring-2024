@@ -7,11 +7,10 @@
 ## This Week's Resources
 
 ### Slides & Notes 
-* ↳ [Week 1 Slides](https://docs.google.com/presentation/d/1kBtYk-c2hjZKde2b01-sqUKOymjRO4J8EfHSrQsxxEQ/edit?usp=sharing)
-### In Class Shared Notes
-* ↳ [In Class Notes](https://docs.google.com/document/d/19JmUg_FvfVZAnPbxkeSpydNFzsy_fqjbvc-CYv4XUaE/edit)
+* ↳ [Week 1 Slides](https://docs.google.com/presentation/d/1TKpse72ro4Z3JY4_XsZ3Zwp2CicQsh-gVrWUgSFkDaQ/edit?usp=sharing)
+
 ### Reading Response Google Doc
-* ↳ [Response Document](https://docs.google.com/document/d/1bxzCl3ThtCbmegrYSj1Lctun7QHKK8tJAIiMKBz1zeQ/edit)
+* ↳ [Response Document](https://docs.google.com/document/d/1tTH-Oac5-IsplvvS-ANf6MWLI_TKMXUMWU_Bvj79xXg/edit?usp=sharing)
 
 ## Monday 
 
