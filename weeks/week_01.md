@@ -22,7 +22,7 @@
 * Reading Discussion Group Matchmaking - __15 minutes__
 * Presentation - __30 minutes__
     * Introduction to the Tangible Internet
-    
+
 ## Topics
 
 ### Course Overview & Syllabus - 45 minutes
@@ -85,7 +85,7 @@ Add your name under the desired week in the in class shared notes doc.
 * [Data Walking](https://www.datawalking.com/)
 
 ## Small Assignment Submission
-* ↳ [Google Form](https://forms.gle/JgkfJod38i3kpPf16)
+* ↳ [Google Form](https://forms.gle/mBAe5SmminVHRz5M6)
 
 ---
 ---
