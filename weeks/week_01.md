@@ -12,7 +12,7 @@
 ### Reading Response Google Doc
 * ↳ [Response Document](https://docs.google.com/document/d/1tTH-Oac5-IsplvvS-ANf6MWLI_TKMXUMWU_Bvj79xXg/edit?usp=sharing)
 
-## Monday (ONLINE over ZOOM)
+## Monday (Online over Zoom)
 
 ## Schedule
 * Introductions - __45 minutes__
@@ -22,6 +22,7 @@
 * Reading Discussion Group Matchmaking - __15 minutes__
 * Presentation - __30 minutes__
     * Introduction to the Tangible Internet
+    
 ## Topics
 
 ### Course Overview & Syllabus - 45 minutes
@@ -32,7 +33,7 @@
 ### Choosing Reading Disussion Text Groups - 15 minutes
 Add your name under the desired week in the in class shared notes doc.
 
-[Reading Discussion Group Link](https://docs.google.com/document/d/1tTH-Oac5-IsplvvS-ANf6MWLI_TKMXUMWU_Bvj79xXg/edit#heading=h.eozb93mznspp)
+[Reading Discussion Group Link](https://docs.google.com/document/d/1cC8rhMC4xD7Kt0QunY-WffXRhs674FFQgHLNapdv_k4/edit?usp=sharing)
 
 
 ### Introduction to the Tangible Internet - 45 minutes
