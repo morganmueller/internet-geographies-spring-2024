@@ -8,7 +8,7 @@
 ## This Week's Resources
 
 ### Slides & Notes 
-* ↳ [Week 2 Slides](https://docs.google.com/presentation/d/1nzIxgKgkm5JdA-P40a8cfjU3RiXuLZpiWNU_fxqg6Wo/edit?usp=sharing)
+* ↳ [Week 2 Slides](https://docs.google.com/presentation/d/1shEApYDPHxosW4rDCKUdnFTN_jQFxKi4ka-89ZL67pY/edit?usp=sharing)
 
 ### Reading Response Google Doc
 * ↳ [Response Document](https://docs.google.com/document/d/1tTH-Oac5-IsplvvS-ANf6MWLI_TKMXUMWU_Bvj79xXg/edit?usp=sharing)
@@ -80,6 +80,9 @@
 * Quick Check-in - __5 minutes__
     * Anything from Monday you'd like to discuss more?
     * Clarity on next Monday's discussion lead if needed
+* Map Maker Code of Ethics
+    * [Map Maker Code of Ethics](https://github.com/joeyklee/carto-code-of-ethics)
+
 * Introduction to Javascript continued - __30 minutes__
     * Variables & Data types
     * Conditionals Review

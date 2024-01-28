@@ -113,7 +113,7 @@ Add your name under the desired week in the in class shared notes doc.
 ## Topics
 
 * [My introduction to Javascript Guide](../tutorials_guides/intro-to-javascript.md)
-* [Visual Sutdio Code](https://code.visualstudio.com/)
+* [Visual Studio Code](https://code.visualstudio.com/)
 
 ## Main Learning Resources
 
