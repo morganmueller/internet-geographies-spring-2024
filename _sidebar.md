@@ -3,13 +3,13 @@
 * Weeks
     * [Week 1](weeks/week_01.md)
     * [Week 2](weeks/week_02.md)
-
+    * [Week 3](weeks/week_03.md)
 
 * Projects
-    <!-- * [Art of Noticing](projects/art-of-noticing.md)
+    <!-- * [Art of Noticing](projects/art-of-noticing.md)-->
     * [Project 1](projects/project_01.md)
-    * [Project 2](projects/project_02.md)
-    * [Final Project](projects/final.md) -->
+    <!-- * [Project 2](projects/project_02.md)
+    * [Final Project](projects/final.md)  -->
 
 
 * Tutorials & Guides
