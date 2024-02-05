@@ -13,7 +13,7 @@
 * ↳ [Week 3 Slides](https://docs.google.com/presentation/d/1ltc-GEoAKDVUbmrC_xV_MfJTan6rtuLLVZ9cVxaBmy8/edit?usp=sharing)
 
 ### Reading Response Google Doc
-* ↳ [Response Document](https://docs.google.com/document/d/1bxzCl3ThtCbmegrYSj1Lctun7QHKK8tJAIiMKBz1zeQ/edit)
+* ↳ [Response Document](https://docs.google.com/document/d/1tTH-Oac5-IsplvvS-ANf6MWLI_TKMXUMWU_Bvj79xXg/edit)
 
  
 ### Reading Discussion Lead Doc

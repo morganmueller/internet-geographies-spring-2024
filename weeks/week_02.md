@@ -13,7 +13,7 @@
 ### Reading Response Google Doc
 * ↳ [Response Document](https://docs.google.com/document/d/1tTH-Oac5-IsplvvS-ANf6MWLI_TKMXUMWU_Bvj79xXg/edit?usp=sharing)
 
-## Reading Discussion Lead Doc
+### Reading Discussion Lead Doc
 * ↳ [Discussion Leads](https://docs.google.com/document/d/1cC8rhMC4xD7Kt0QunY-WffXRhs674FFQgHLNapdv_k4/edit#heading=h.ko9guovehion)
 
 ## Monday
