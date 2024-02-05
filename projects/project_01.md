@@ -1,6 +1,6 @@
 # PROJECT 1: Mapping a Public Dataset
 
-### Submission Link: [https://forms.gle/q6geUYXioVsuRLkx9](https://forms.gle/q6geUYXioVsuRLkx9)
+### Submission Link: [Submit here](https://forms.gle/hYSzf3EscKQrtPuN9)
 
 ## Background
 Familiarity with multiple tools is critical for creating web maps and programming in general. While one tool may be great at a certain task, another tool could be great at a different one.
@@ -9,7 +9,7 @@ We're going to practice getting comfortable with multiple mapping tools and usin
 
 
 ## Brief
-The purpose of this first assignment is to get you comfortable with four things:
+The purpose of this first project is to get you comfortable with four things:
 1. Developing a workflow for prototyping and creating web maps (and visualizing data in general!)
 2. Using a few basic web mapping tools in combination with each other
 3. Finding, cleaning, and using publically available data

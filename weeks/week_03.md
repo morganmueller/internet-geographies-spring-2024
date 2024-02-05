@@ -10,7 +10,7 @@
 ## This Week's Resources
 
 ### Slides & Notes 
-* ↳ [Week 3 Slides](https://docs.google.com/presentation/d/1JR-rBmvPWWQqtmdPRMmpYuWnZSnMkpCqZOZtVpuw-YA/edit?usp=sharing)
+* ↳ [Week 3 Slides](https://docs.google.com/presentation/d/1ltc-GEoAKDVUbmrC_xV_MfJTan6rtuLLVZ9cVxaBmy8/edit?usp=sharing)
 
 ### Reading Response Google Doc
 * ↳ [Response Document](https://docs.google.com/document/d/1bxzCl3ThtCbmegrYSj1Lctun7QHKK8tJAIiMKBz1zeQ/edit)
@@ -25,7 +25,6 @@
 * Frictions in the "seamless technoutopian society"
 * Infrastructure visibility
 * Feudal Internet and past, present, and future frictions
-* Traceroutes
 
 
 ## Schedule
@@ -49,6 +48,7 @@
 * **READING**
     * [Shannon Mattern, "Cloud and Field", Aug 2014](https://placesjournal.org/article/cloud-and-field/)
     * [Andrew Blum, "Tubes", 2012, Chapter 2](https://bobcat.library.nyu.edu/primo-explore/fulldisplay?docid=nyu_aleph003634157&context=L&vid=NS2-NUI&lang=en_US&search_scope=default_scope&adaptor=Local%20Search%20Engine&tab=default_tab&query=any,contains,andrew%20blum%20tubes&offset=0)
+    * [Greta Byrum, "Building the People's Internet", 2019](https://urbanomnibus.net/2019/10/building-the-peoples-internet/)
 
 
 * **READING DUE WEDNESDAY**
@@ -77,6 +77,7 @@
 * [American Artist, Black Gooey Universe](https://americanartist.us/works/black-gooey-universe)
 * [Trevor Paglen, "The Other Night Sky](https://paglen.studio/2020/05/22/the-other-night-sky/)
 * [Geotraceroute](https://geotraceroute.com/)
+* [IP address Geolocation](https://www.geolocation.com/)
 
 
 <hr>
@@ -89,6 +90,7 @@
 * Last week's problem set review
 * Continued Javascript Fundamentals
 * Another JS Practice Problem set
+* Traceroutes & TCP/IP 
 * Begin Implosion project (MAYBE)
 
 ## Schedule

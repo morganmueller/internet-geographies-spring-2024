@@ -17,6 +17,7 @@ For an fantastically dense and materiaally rich compilation of tools, resources,
 ## Web Mapping Resources
 
 ### Tile sources/hosting
+* [Wikipedia Data Maps](https://seealso.org/)
 * [OpenStreetMap](http://openstreetmap.org) tile URL: https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png
 * [Stamen raster map tiles](http://maps.stamen.com/): free raster tiles from San Francisco*based data visualization firm. Some nice default basemaps!
 * [Mapbox](http://mapbox.com) is a platform for creating custom tile base maps that integrates pretty nicely with Leaflet. One of the best satellite imagery basemaps out there. (Requires creating an account; has decent free tier resources)
