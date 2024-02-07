@@ -107,7 +107,7 @@
     * If you finish early, begin researching for project 1.
 * Practice set review (This week and last weeks)- __20 minutes__
 
-* Ending Statements and Art of Noticing Assignment -  __10 minutes__
+* Ending Statements  -  __10 minutes__
     * Take home questions for Monday
 
 
