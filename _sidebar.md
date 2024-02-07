@@ -6,11 +6,8 @@
     * [Week 3](weeks/week_03.md)
 
 * Projects
-    <!-- * [Art of Noticing](projects/art-of-noticing.md)-->
     * [Project 1](projects/project_01.md)
-    <!-- * [Project 2](projects/project_02.md)
-    * [Final Project](projects/final.md)  -->
-
+   
 
 * Tutorials & Guides
     * [Introduction to Javascript](tutorials_guides/intro-to-javascript.md)
