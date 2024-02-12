@@ -10,7 +10,7 @@
 ## This Week's Resources
 
 ### Slides & Notes 
-* ↳ [Week 4 Slides](https://docs.google.com/presentation/d/1YOSp8lJTMurFDWHUilxLnoFA1Y3HBpxhCTGOfxi1jUU/edit?usp=sharing)
+* ↳ [Week 4 Slides](https://docs.google.com/presentation/d/12OUgjXJJcNW9Ecmb8h9mihzeKj-kI-DGCr3Cl5JzwFI/edit?usp=sharing)
 ### Reading Response Google Doc
 * ↳ [Response Document](https://docs.google.com/document/d/1tTH-Oac5-IsplvvS-ANf6MWLI_TKMXUMWU_Bvj79xXg/edit)
  
@@ -20,8 +20,8 @@
 
 ### Topics
 * "The Cloud"
-* Planetary as Praxis
-* Relations
+* Community Internet
+* Modern use of field guides
 * ARPANET
 * Piecemeal creation of the modern internet
 * Internet Communications (Packets & TCP/IP)
@@ -43,14 +43,16 @@
 ### Assigned (**Due Next Wednesday**)
 
 * **READING**
-    * [Andrew Blum, "Tubes", 2012, Chapter ](https://bobcat.library.nyu.edu/primo-explore/fulldisplay?docid=nyu_aleph003634157&context=L&vid=NS2-NUI&lang=en_US&search_scope=default_scope&adaptor=Local%20Search%20Engine&tab=default_tab&query=any,contains,andrew%20blum%20tubes&offset=0)
-    * [Andrew Blum, "Tubes", 2012, Chapter ](https://bobcat.library.nyu.edu/primo-explore/fulldisplay?docid=nyu_aleph003634157&context=L&vid=NS2-NUI&lang=en_US&search_scope=default_scope&adaptor=Local%20Search%20Engine&tab=default_tab&query=any,contains,andrew%20blum%20tubes&offset=0)
+    * [Nicole Starosielski, Hunter Vaughan, Anne Pasek, and Nicholas R. Silcox, "DISAGGREGATED FOOTPRINTS An Infrastructural Literacy Approach to the Sustainable Internet", 2023](www.sustainablesubseanetworks.com/_files/ugd/d0500c_7ea664b8e4e24941b899c840c667b64b.pdf)
+    * [Andrew Blum, "Tubes", 2012, Chapter 6](https://bobcat.library.nyu.edu/primo-explore/fulldisplay?docid=nyu_aleph003634157&context=L&vid=NS2-NUI&lang=en_US&search_scope=default_scope&adaptor=Local%20Search%20Engine&tab=default_tab&query=any,contains,andrew%20blum%20tubes&offset=0)
    
-
+* **OPTIONAL READING** 
+    * [Andrew Blum, "Tubes", 2012, Chapter 3](https://bobcat.library.nyu.edu/primo-explore/fulldisplay?docid=nyu_aleph003634157&context=L&vid=NS2-NUI&lang=en_US&search_scope=default_scope&adaptor=Local%20Search%20Engine&tab=default_tab&query=any,contains,andrew%20blum%20tubes&offset=0)
 * __DUE WEDNESDAY__
     * Look through the project 1 page and find one or two interesting datasets from the links on the page. Come to class ready to talk about your chosen data sets!
 
 ### Additional Resources & References
+* [Sustainable Subsea Networks](https://www.sustainablesubseanetworks.com/)
 * [Submarine Cable Map](https://www.submarinecablemap.com/)
 * [Surfacing](http://www.surfacing.in/) 
 * [Evan Roth, "Landscape Series", 2016-present](http://www.evan-roth.com/~/works/landscapes/#hemisphere=west&strand=115)

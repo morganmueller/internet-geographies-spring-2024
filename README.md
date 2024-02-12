@@ -365,9 +365,11 @@ __ASSIGNED__
 __ASSIGNED__
 
 * **READING**
-    * [Andrew Blum, "Tubes", 2012, Chapter 5](https://bobcat.library.nyu.edu/primo-explore/fulldisplay?docid=nyu_aleph003634157&context=L&vid=NS2-NUI&lang=en_US&search_scope=default_scope&adaptor=Local%20Search%20Engine&tab=default_tab&query=any,contains,andrew%20blum%20tubes&offset=0)
+    * [Nicole Starosielski, Hunter Vaughan, Anne Pasek, and Nicholas R. Silcox, "DISAGGREGATED FOOTPRINTS An Infrastructural Literacy Approach to the Sustainable Internet", 2023](www.sustainablesubseanetworks.com/_files/ugd/d0500c_7ea664b8e4e24941b899c840c667b64b.pdf)
     * [Andrew Blum, "Tubes", 2012, Chapter 6](https://bobcat.library.nyu.edu/primo-explore/fulldisplay?docid=nyu_aleph003634157&context=L&vid=NS2-NUI&lang=en_US&search_scope=default_scope&adaptor=Local%20Search%20Engine&tab=default_tab&query=any,contains,andrew%20blum%20tubes&offset=0)
    
+* **OPTIONAL READING** 
+    * [Andrew Blum, "Tubes", 2012, Chapter 3](https://bobcat.library.nyu.edu/primo-explore/fulldisplay?docid=nyu_aleph003634157&context=L&vid=NS2-NUI&lang=en_US&search_scope=default_scope&adaptor=Local%20Search%20Engine&tab=default_tab&query=any,contains,andrew%20blum%20tubes&offset=0)
 * **RESOURCES**
     * [Submarine Cable Map](https://www.submarinecablemap.com/)
     * [Evan Roth, "Landscape Series", 2016-present](http://www.evan-roth.com/~/works/landscapes/#hemisphere=west&strand=115)
