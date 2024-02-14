@@ -43,7 +43,7 @@
 ### Assigned (**Due Next Wednesday**)
 
 * **READING**
-    * [Nicole Starosielski, Hunter Vaughan, Anne Pasek, and Nicholas R. Silcox, "DISAGGREGATED FOOTPRINTS An Infrastructural Literacy Approach to the Sustainable Internet", 2023](www.sustainablesubseanetworks.com/_files/ugd/d0500c_7ea664b8e4e24941b899c840c667b64b.pdf)
+    * [Nicole Starosielski, Hunter Vaughan, Anne Pasek, and Nicholas R. Silcox, "DISAGGREGATED FOOTPRINTS An Infrastructural Literacy Approach to the Sustainable Internet", 2023](https://www.sustainablesubseanetworks.com/_files/ugd/d0500c_7ea664b8e4e24941b899c840c667b64b.pdf)
     * [Andrew Blum, "Tubes", 2012, Chapter 6](https://bobcat.library.nyu.edu/primo-explore/fulldisplay?docid=nyu_aleph003634157&context=L&vid=NS2-NUI&lang=en_US&search_scope=default_scope&adaptor=Local%20Search%20Engine&tab=default_tab&query=any,contains,andrew%20blum%20tubes&offset=0)
    
 * **OPTIONAL READING** 
