@@ -392,7 +392,7 @@ __ASSIGNED__
 
 
 __ASSIGNED__
-* This week's readings and listening assignments are still required as they will be discussed next Monday
+
 * **READING**
 
     * [Nicole Starosielski, "The Undersea Network" ](https://www.are.na/block/3097730)
@@ -407,8 +407,9 @@ __ASSIGNED__
 
 * Leaflet Continued
 
+
 * **SMALL ASSIGNMENT**
-    * Using non-digital tools (Be Creative with the tools), create a data visualization on a postcard or similar sized physical object that shows a 'snapshot' of a particular portion of a public data set. Bring them to class next Monday to discuss.
+    * Create a basemap using Leaflet and populate it with any public dataset you can find!
 
 
 ## Section - A Tangible Internet
@@ -528,6 +529,10 @@ __ASSIGNED__
 __ASSIGNED__
 
 * Project 2 (Visualizing a Collection), **Due April 17th**
+
+
+* **SMALL ASSIGNMENT**
+    * Using non-digital tools (Be Creative with the tools), create a data visualization on a postcard or similar sized physical object that shows a 'snapshot' of a particular portion of a public data set. Bring them to class next Monday to discuss.
 
 
 
