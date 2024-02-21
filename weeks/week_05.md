@@ -34,6 +34,13 @@ ENJOY YOUR HOLIDAY
 * Next Week's reading discussion leads
 
 
+### Intro To Leaflet Examples
+* [Leaflet Examples](../tutorials_guides/leaflet_examples/README.md)
+* ↳ [Maptime Boston](https://maptimeboston.github.io/leaflet-intro/)
+* ↳ [Leaflet sandbox](https://joeyklee.github.io/geosandbox/hello-leaflet.html#section6)
+
+
+
 ### Assigned (**Due Next Monday**)
 
 __ASSIGNED__
