@@ -4,7 +4,7 @@
 ## This Week's Resources
 
 ### Slides & Notes 
-* ↳ [Week 5 Slides](https://docs.google.com/presentation/d/12OUgjXJJcNW9Ecmb8h9mihzeKj-kI-DGCr3Cl5JzwFI/edit?usp=sharing)
+* ↳ NO SLIDES THIS WEEK
 ### Reading Response Google Doc
 * ↳ [Response Document](https://docs.google.com/document/d/1tTH-Oac5-IsplvvS-ANf6MWLI_TKMXUMWU_Bvj79xXg/edit)
  
