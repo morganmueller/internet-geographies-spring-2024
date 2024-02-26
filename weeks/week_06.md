@@ -5,6 +5,7 @@
 
 ### Slides & Notes 
 * ↳ NO SLIDES THIS WEEK
+* ↳ [Undersea Networks Key Concepts](https://gist.github.com/morganmueller/2d5f2166df1adedfeded1fc7c40c9844)
 ### Reading Response Google Doc
 * ↳ [Response Document](https://docs.google.com/document/d/1tTH-Oac5-IsplvvS-ANf6MWLI_TKMXUMWU_Bvj79xXg/edit)
  
