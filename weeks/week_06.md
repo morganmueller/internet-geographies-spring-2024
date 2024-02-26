@@ -23,7 +23,7 @@
 * Quick Check-in - __5 minutes__
     * How's everyone feeling?
 * Undersea Network Disuccsion - __35 minutes__
-* Guest Speaker - __60 minutes__
+* Bringing Data into Leaflet - __60 minutes__
 *  Project 1 Check in - __5 minutes__
     * Questions?
     * Comfort with tools
