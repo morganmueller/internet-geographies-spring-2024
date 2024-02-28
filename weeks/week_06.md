@@ -31,7 +31,7 @@
 * Quick Check-in - __5 minutes__
     * How's everyone feeling?
 * Undersea Network Disuccsion - __40 minutes__
-*  Project 1 Studio - __5 minutes__
+*  Project 1 Studio - __50 minutes__
     * Questions?
     * Comfort with tools
     * Issues with data?
