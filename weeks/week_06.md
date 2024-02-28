@@ -14,27 +14,31 @@
 
 
 ## Monday 
+## Schedule
+* Quick Check-in - __5 minutes__
+* Bringing Data into Leaflet - __60 minutes__
+* Leaflet Examples - __40 minutes__
 
 ### Topics
 * Undersea Network Discussion
 * Bringing Geojson into Leaflet
 * Project 1 check-in
 
+
+## Wednesday
+
 ## Schedule
 * Quick Check-in - __5 minutes__
     * How's everyone feeling?
-* Undersea Network Disuccsion - __35 minutes__
-* Bringing Data into Leaflet - __60 minutes__
-*  Project 1 Check in - __5 minutes__
+* Undersea Network Disuccsion - __40 minutes__
+*  Project 1 Studio - __5 minutes__
     * Questions?
     * Comfort with tools
     * Issues with data?
 * Next Week's reading discussion leads
 
-
-## Wednesday
-
 ### Topics
+
 
 ## Schedule
 
