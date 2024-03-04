@@ -14,7 +14,6 @@
 
 ## Monday 
 
-
 ### PROJECT 1 NOW DUE WED MARCH 20!
 ### Topics
 * Reading Discussion
@@ -26,7 +25,7 @@
     * Project 1 
 * Reading Discussion - __30 minutes__
 * Guest Speaker - __60 minutes__
-    * Lai Yi Ohlsen
+    * [Lai Yi Ohlsen](https://laiyiohlsen.com/)
 * Wrap Up -  __5 minutes__
     * Wednesday's plan
 
