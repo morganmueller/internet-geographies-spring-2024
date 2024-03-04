@@ -1,4 +1,4 @@
-# Week 6 - Data Centers 
+# Week 7 - Data Centers 
 
 
 ## This Week's Resources
