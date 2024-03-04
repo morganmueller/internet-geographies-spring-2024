@@ -14,6 +14,8 @@
 
 ## Monday 
 
+
+### PROJECT 1 NOW DUE WED MARCH 20!
 ### Topics
 * Reading Discussion
 * Guest Speaker
@@ -22,7 +24,6 @@
 * Quick Check-in - __5 minutes__
     * General feelings?
     * Project 1 
-    * Art of noticing check in
 * Reading Discussion - __30 minutes__
 * Guest Speaker - __60 minutes__
     * Lai Yi Ohlsen
