@@ -9,7 +9,7 @@
 ## This Week's Resources
 
 ### Slides & Notes 
-* ↳ [Week 9 Slides](https://docs.google.com/presentation/d/15ThbKo96v73q72lwTPUy3pD-H2guO8Fw_T-MbE0y0KY/edit?usp=sharing)
+* ↳ [Week 9 Slides](https://docs.google.com/presentation/d/1YljOZ41ldJt-3cNGllhYpHzxT-2E18Rxoa8EXzXD8Po/edit?usp=sharing)
 ### Reading Response Google Doc
 * ↳ [Response Document](https://docs.google.com/document/d/1tTH-Oac5-IsplvvS-ANf6MWLI_TKMXUMWU_Bvj79xXg/edit)
  
