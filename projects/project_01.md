@@ -1,6 +1,6 @@
 # PROJECT 1: Mapping a Public Dataset
 
-### Submission Link: [Submit here](https://forms.gle/hYSzf3EscKQrtPuN9)
+### Submission Link: [Submit here](https://forms.gle/uFQKVpRru15RKqTg7)
 
 ## Background
 Familiarity with multiple tools is critical for creating web maps and programming in general. While one tool may be great at a certain task, another tool could be great at a different one.
@@ -40,7 +40,7 @@ The purpose of this first project is to get you comfortable with four things:
 
 ## Project Write Up and Submission
 
-### Submission Link: [https://forms.gle/q6geUYXioVsuRLkx9](https://forms.gle/q6geUYXioVsuRLkx9)
+### Submission Link: [https://forms.gle/uFQKVpRru15RKqTg7](https://forms.gle/uFQKVpRru15RKqTg7)
 
 **Your final submission should be one integrated collection, with all components synthesized and contextualized.**
 
