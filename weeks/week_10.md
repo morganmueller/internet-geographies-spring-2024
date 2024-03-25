@@ -10,9 +10,12 @@
 ## This Week's Resources
 
 ### Slides & Notes 
-* ↳ [Week 9 Slides](https://docs.google.com/presentation/d/1QCVzVbZqXLmrr0aNr5a5tRCz3mSPjgo4mj51XRmYFCs/edit?usp=sharing)
+* ↳ [Week 10 Slides](https://docs.google.com/presentation/d/1cLYxunK8_iOUxLEHRSH7UjbvqIgpoc30CNkH5CqIXj4/edit?usp=sharing)
 ### Reading Response Google Doc
-* ↳ [Response Document](https://docs.google.com/document/d/1bxzCl3ThtCbmegrYSj1Lctun7QHKK8tJAIiMKBz1zeQ/edit)
+* ↳ [Response Document](https://docs.google.com/document/d/1tTH-Oac5-IsplvvS-ANf6MWLI_TKMXUMWU_Bvj79xXg/edit)
+ 
+### Reading Discussion Lead Doc
+* ↳ [Discussion Leads](https://docs.google.com/document/d/1cC8rhMC4xD7Kt0QunY-WffXRhs674FFQgHLNapdv_k4/edit#heading=h.ko9guovehion)
 
 ## Monday
 
@@ -22,6 +25,7 @@
 * Data Storytelling
 * Intro to Datawrapper
 * Project 2 Introduction
+* Art of noticing introduction
 
 
 ## Schedule
@@ -44,7 +48,10 @@
 * **READING**
     * [Lisa Nakamura, "Economies of Digital Production in East Asia"](http://static1.1.sqspcdn.com/static/f/707453/11409674/1301102745057/Media-Fields-2-Nakamura.pdf?token=XCUcazisBv2ZLAhbvcr58wwJJek%3D)
     * [Mark Selden, Jenny Chan and Pun Ngai, "The politics of global production: Apple, Foxconn and China's new working class", 2013](https://apjjf.org/2013/11/32/Mark-Selden/3981/article.html)
-
+ 
+* **PROJECTS**
+    * [Project 2](projects/project_02.md)
+    * [Art of Noticing](projects/art-of-noticing.md)
 
 ### Additional Resources & References
 * [Why shipping is central to the very fabric of global capitalism](https://www.youtube.com/watch?v=NrT9i4GS3fg)
