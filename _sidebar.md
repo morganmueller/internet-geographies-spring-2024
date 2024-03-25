@@ -10,10 +10,13 @@
     * [Week 7](weeks/week_07.md)
     * [Week 8](weeks/week_08.md)
     * [Week 9](weeks/week_09.md)
+    * [Week 10](weeks/week_10.md)
 
 * Projects
     * [Project 1](projects/project_01.md)
-   
+    * [Project 1](projects/project_02.md)
+    * [Art of Noticing](projects/art-of-noticing.md)
+
 
 * Tutorials & Guides
     * [Introduction to Javascript](tutorials_guides/intro-to-javascript.md)
@@ -34,6 +37,6 @@
     * [Week 4 exercises](tutorials_guides/exercises/week_04_exercises.md)
     * [Week 6 Studio](tutorials_guides/exercises/week_06_studio1/README.md)
     * [Week 7 Studio](tutorials_guides/exercises/week_06_studio2/Kepler_studio.md)
-    * [Week 9 Studio](tutorials_guides/exercises/week_09_studio.md)
-    * [Week 10 Studio](tutorials_guides/exercises/week_10_studio.md)  
+    * [Week 10 Studio](tutorials_guides/exercises/week_09_studio.md)
+    * [Week 11 Studio](tutorials_guides/exercises/week_10_studio.md)  
     
