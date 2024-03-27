@@ -1,7 +1,3 @@
-
-
-
-
 # Week 10 - Trade & Capitalist Expansion
 
 > "Fish Story follows two interwoven strands, both of which turn around questions of liminality and flux. First, it is a ‘documentary’ reading of contemporary maritime space. As both sea and land are progressively “rationalized” by increasingly sophisticated industrial methods, does the “classic” relation between terrestrial space and maritime space undergo a reversal? Does the sea become fixed and the land fluid? Second, Fish Story is an “art historical” allegory of the sea as an object of representation. How does the sea “disappear” from the cognitive and imaginative horizon of late modernity? Are there broader lessons to be drawn from this disappearance?" - Kalili
@@ -74,23 +70,19 @@
 * [HTML Cheatsheet 1](https://developer.mozilla.org/en-US/docs/Learn/HTML/Cheatsheet)
 * [HTML Cheatsheet 2](https://drive.google.com/file/d/1V_Th2OPnb6FcRVPMcpqeWigFD7DC1XYx/view?usp=sharing)
 
-<!-- 
+
 ## Wednesday
 
 ### Topics
-* Art of Noticing Presentations
-* Datawrapper Studio
+* Guest Speaker/Walker!
 
 ## Schedule
 * Quick Check-in - __5 minutes__
     * Any questions from Monday?
-* Art of Noticing Presentations - __60 minutes__
-* Datawrapper Studio - __30 minutes__
+* Artist Intro - __10 minutes__
+* Walk! - __60 minutes__
 * Wrap up - __5 minutes__
  
 
 
-### Studio Links
-* ↳ [Week 10 Studio](../tutorials_guides/exercises/week_09_studio.md)
-
-### Additional Resources & References -->
+### Additional Resources & References 
