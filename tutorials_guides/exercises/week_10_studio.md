@@ -14,11 +14,11 @@ __Before starting: Create a file called index.html__
 
 4. Directly below the opening `<body>` tag, add an `<h1>` that says:
 
-“Quiet as It’s Kept”
+“Better than the Real Thing”
 
 Below that, add an `<h2>` that says:
 
-“Apr 6–Sept 5, 2022”
+Mar 27–Sept 5, 2024”
 
 5. Let’s add an info blurb about the Biennial. Between the `<h1>` and first `<h2>` tag, add a `<p>` tag that says:
 
