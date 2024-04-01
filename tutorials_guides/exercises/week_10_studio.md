@@ -10,7 +10,7 @@ __Before starting: Create a file called index.html__
 
 2. Below the `<html>` opening tag, add a `<head>` element. Below the `<head>` element, add the `<body>` element.
 
-3. Within the `<head>` tags, add a `<title>` element. Title the website “Whitney Biennial 2022:”.
+3. Within the `<head>` tags, add a `<title>` element. Title the website “Whitney Biennial 2024:”.
 
 4. Directly below the opening `<body>` tag, add an `<h1>` that says:
 
@@ -22,18 +22,18 @@ Below that, add an `<h2>` that says:
 
 5. Let’s add an info blurb about the Biennial. Between the `<h1>` and first `<h2>` tag, add a `<p>` tag that says:
 
-“The Whitney Biennial has surveyed the landscape of American art, reflecting and shaping the cultural conversation, since 1932. The eightieth edition of the landmark exhibition is co-curated by David Breslin and Adrienne Edwards. Titled Quiet as It’s Kept, the 2022 Biennial features an intergenerational and interdisciplinary group of sixty-three artists and collectives whose dynamic works reflect the challenges, complexities, and possibilities of the American experience today."
+“The eighty-first edition of the Whitney Biennial—the longest-running survey of contemporary art in the United States—features seventy-one artists and collectives grappling with many of today’s most pressing issues. This Biennial is like being inside a “dissonant chorus," as participating artist Ligia Lewis described it, a provocative yet intimate experience of distinct and disparate voices that collectively probe the cracks and fissures of the unfolding moment."
 
 
 6. After the `<h2>` tags, add another paragraph  using the `<p>` tag:
 
-“Since the start of the pandemic, time has expanded, contracted, suspended, and blurred—often in dizzying succession. We began planning this Biennial in late 2019: before Covid and its reeling effects, before the uprisings demanding racial justice, before the widespread questioning of institutions and their structures, before the 2020 presidential election. Although underlying conditions are not new, their overlap, their intensity, and their sheer ubiquity created a context in which past, present, and future folded into one another. We organized this Biennial to reflect these precarious and improvised times. Many artists’ contributions are dynamic, taking different forms during the course of the exhibition. Artworks change, walls move, and performances animate the galleries and surrounding objects. The spaces of the Biennial contrast significantly, acknowledging the acute polarity of our society. One floor is a labyrinth, a dark space of containment; another is a clearing, open and light filled.”
+“The exhibition’s subtitle, Even Better Than the Real Thing, acknowledges that Artificial Intelligence (AI) is complicating our understanding of what is real, and rhetoric around gender and authenticity is being used politically and legally to perpetuate transphobia and restrict bodily autonomy. These developments are part of a long history of deeming people of marginalized race, gender, and ability as subhuman—less than real. In making this exhibition, we committed to amplifying the voices of artists who are confronting these legacies, and to providing a space where difficult ideas can be engaged and considered.”
 
 7. After the last `<h2>` tag, add a final paragraph that says:
 
-“Rather than offering a unified theme, we pursue a series of hunches throughout the exhibition: that abstraction demonstrates a tremendous capacity to create, share, and sometimes withhold meaning; that research-driven conceptual art can combine the lushness of ideas and materiality; that personal narratives sifted through political, literary, and pop cultures can address larger social frameworks; that artworks can complicate the meaning of “American” by addressing the country’s physical and psychological boundaries; and that our present moment can be reimagined by engaging with under-recognized artistic models and artists we have lost. Deliberately intergenerational and interdisciplinary, this Biennial proposes that cultural, aesthetic, and political possibility begins with meaningful exchange and reciprocity.”
+“This Biennial is a gathering of artists who explore the permeability of the relationships between mind and body, the fluidity of identity, and the growing precariousness of the natural and constructed worlds around us. Whether through subversive humor, expressive abstraction, or non-Western forms of cosmological thinking, to name but a few of their methods, these artists demonstrate that there are pathways to be found, strategies of coping and healing to be discovered, and ways to come together even in a fractured time.”
 
-8. Of course, this wouldn’t be a fashion blog without some images. Above each paragraph, add an `<img>` tag and set its src to be one of the following links:
+8. Now we should add some images! Above each paragraph, add an `<img>` tag and set its src to be one of the following links:
 
 https://whitneymedia.org/assets/image/827528/large_LITTLEISLAND_GUTPUNCH_Op3_web.jpg
 https://whitneymedia.org/assets/image/827466/large_RS10789_Yoon_S_04.jpg
@@ -41,7 +41,7 @@ https://whitneymedia.org/assets/image/827510/large_RJ-Jan30-4_Web.jpg
 
 9. The basic website is complete! Now let’s add an image of the Whitney's logo. Below the opening body tag, add an `<img>` tag with the following source:
 
-https://www.brandingmag.com/wp-content/uploads/2013/06/whitney-museum-new-identity-1.jpg
+https://hyperallergic-newspack.s3.amazonaws.com/uploads/2013/05/whitney-identity-640.jpg
 
 10. Below the `<img>` tag, add an `<h3>` that says “Whitney Museum of American Art”
 
