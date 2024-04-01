@@ -25,7 +25,8 @@
 ## Schedule
 * Quick Check-in - __5 minutes__
     * Quick Check-in
-* Project 1 Presentations - __90 minutes__
+* Reading discussion - __30 minutes__
+* In class studio & HTML examples - __60 minutes__
 * Wrap Up -  __5 minutes__
     * Wednesday's plan
 
