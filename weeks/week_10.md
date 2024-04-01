@@ -43,7 +43,7 @@
 
 * **READING**
     * [Lisa Nakamura, "Economies of Digital Production in East Asia"](http://static1.1.sqspcdn.com/static/f/707453/11409674/1301102745057/Media-Fields-2-Nakamura.pdf?token=XCUcazisBv2ZLAhbvcr58wwJJek%3D)
-    * [Mark Selden, Jenny Chan and Pun Ngai, "The politics of global production: Apple, Foxconn and China's new working class", 2013](https://apjjf.org/2013/11/32/Mark-Selden/3981/article.html)
+    * [Mark Selden, Jenny Chan and Pun Ngai, "The politics of global production: Apple, Foxconn and China's new working class", 2013](https://www.researchgate.net/publication/264225687_The_Politics_of_Global_Production_Apple_Foxconn_and_China's_New_Working_Class)
  
 * **PROJECTS**
     * [Project 2](projects/project_02.md)
