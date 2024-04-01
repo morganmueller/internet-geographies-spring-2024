@@ -1,4 +1,4 @@
-# Week 10 - Politics of Production
+# Week 11 - Politics of Production
 
 > "To call the Apple iPhone a fetish is only to state the obvious. It is, specifically, a commodity fetish. However, it is a special kind of digital fetish: a commodity that enjoys some of the special and exalted social status of a noncommodity" - Nakamura
 
