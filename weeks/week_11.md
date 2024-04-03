@@ -58,12 +58,14 @@
 ## Wednesday
 
 ### Topics
-
+* Project 2 Studio  Day
 
 ## Schedule
 * Quick Check-in - __5 minutes__
     * Quick Check-in
-* In Class Studios -  __60 minutes__   
+* Project 2 work -  __70 minutes__   
+* Mimi O video - __20 minutes__
+
 * Wrap Up -  __5 minutes__
     * Wednesday's plan
 
