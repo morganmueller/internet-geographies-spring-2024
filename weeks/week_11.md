@@ -62,8 +62,7 @@
 
 ## Schedule
 * Quick Check-in - __5 minutes__
-    * Quick Check-in
-* Project 2 work -  __70 minutes__   
+* Project 2 Work -  __70 minutes__   
 * Mimi O video - __20 minutes__
 
 * Wrap Up -  __5 minutes__
