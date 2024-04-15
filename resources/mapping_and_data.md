@@ -45,3 +45,7 @@ For an fantastically dense and materiaally rich compilation of tools, resources,
 ### Map Projections
 [Projection Breakdown PDF](https://www.humbleisd.net/cms/lib2/TX01001414/Centricity/Domain/3635/Map%20Projections.pdf)
 [D3 Every Map Projection Project](https://bl.ocks.org/mbostock/29cddc0006f8b98eff12e60dd08f59a7)
+
+
+# Data Sources
+[NYC Environmental Health Data Portal](https://a816-dohbesp.nyc.gov/IndicatorPublic/)
