@@ -17,9 +17,8 @@
 ## Monday
 
 ### Topics
-* More than a Singular Extraction
-* Confilct Minerals in the DRC
-* Studio
+
+* Project 2 work time Studio
 * Small Assignment presentations
 
 
@@ -27,10 +26,7 @@
 * Quick Check-in - __5 minutes__
     * Quick Check-in
 * Small Assignment Presentations - __10 minutes__
-* Reading Discussion - __30 minutes__
-    * Group Leaders 
-    * Conflict Minerals in the Congo
-    * Extraction and Relationships
+
 * Project 2 Assistance - __50 minutes__
 
 * Wrap Up -  __5 minutes__
@@ -49,16 +45,20 @@ __ASSIGNED__
 ## Wednesday
 
 ### Topics
-* Project 2 Studio Day
+* More than a Singular Extraction
+* Confilct Minerals in the DRC
+* Project 2 Presentations
 
 
 ### Schedule
 * Quick Check-in - __5 minutes__
     * Quick Check-in
 * Project 2 Presentations - __60 minutes__
-* Monday's video - __10 minutes__
+* Reading Discussion - __30 minutes__
+    * Group Leaders 
+    * Conflict Minerals in the Congo
+    * Extraction and Relationships
 * Landsat Image Bands - __20 minutes__
-
 * Wrap Up -  __5 minutes__
     * Monday's plan
 
