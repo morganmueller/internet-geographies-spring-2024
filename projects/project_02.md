@@ -57,7 +57,7 @@ https://github.com/morganmueller/internet-geographies-spring-2023/tree/master/pr
 
 ## Project Write Up and Submission
 
-Submission Link: 
+Submission Link: https://forms.gle/e2MQkhnxJ1r3EiFb6
 
 **Your final submission should be one integrated collection, with all components synthesized and contextualized.**
 
