@@ -1,4 +1,4 @@
-# Week 12 - Resource Lives
+# Week 13 - Resource Lives
 
 > "Extraction provides the raw materials that drive capital’s creative destruction, whether it involves mining, land grabbing, extensive cultivation of cash crops, gentrification of urban neighbourhoods, or the continuous pressure placed on human activity and life to transform it into a source of value." - Sandro Mezzadra and Brett Neilson
 
@@ -32,7 +32,7 @@
 * Wrap Up -  __5 minutes__
     * Wednesday's plan
 
-### Assigned (**Due Monday April 18th**)
+### Assigned (**Due Monday April 22nd**)
 __ASSIGNED__
 * **READING**
     * [Julie Michelle Klinger, "Rare Earth Frontiers", 2017](https://www.are.na/block/7639482)
